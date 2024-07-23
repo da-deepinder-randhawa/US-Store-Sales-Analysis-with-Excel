@@ -31,7 +31,7 @@ This project underscores my proficiency in leveraging Excel to drive actionable 
 ## Reports
 
 Explore the detailed Excel report for in-depth analysis:
-- [[US Store Sales Analysis Report][(https://path_to_your_excel_report](https://github.com/da-deepinder-randhawa/US-Store-Sales-Analysis-with-Excel/blob/main/US%20SUPERSTORE%20SALES%20ANALYSIS.xlsx)](https://github.com/da-deepinder-randhawa/US-Store-Sales-Analysis-with-Excel/blob/main/US%20SUPERSTORE%20SALES%20ANALYSIS.xlsx)
+- [[US Store Sales Analysis Report](https://github.com/da-deepinder-randhawa/US-Store-Sales-Analysis-with-Excel/blob/main/US%20SUPERSTORE%20SALES%20ANALYSIS.xlsx)](https://github.com/da-deepinder-randhawa/US-Store-Sales-Analysis-with-Excel/blob/main/US%20SUPERSTORE%20SALES%20ANALYSIS.xlsx)](https://github.com/da-deepinder-randhawa/US-Store-Sales-Analysis-with-Excel/blob/main/US%20SUPERSTORE%20SALES%20ANALYSIS.xlsx)
 
 ## Author
 
